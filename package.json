@@ -116,7 +116,7 @@
     "metagetta": "^0.4.1",
     "mime-types": "^2.1.16",
     "minimist": "1.2.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.13",
     "numeral": "^2.0.6",
     "pace": "0.0.4",
