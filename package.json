@@ -122,7 +122,7 @@
     "pace": "0.0.4",
     "pace-js": "^1.0.2",
     "prerender-node": "^2.7.2",
-    "qs": "^6.4.0",
+    "qs": "^6.5.3",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-foundation-components": "^0.12.0",
